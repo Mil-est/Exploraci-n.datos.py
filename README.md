@@ -1,2 +1,3 @@
-# Exploraci-n.datos.py
-Exxploración de base de datos con Python
+# Exploració de datos
+
+Exploración de base de datos con Python
